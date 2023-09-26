@@ -4,7 +4,7 @@ import Home from "./components/Home";
 import Dashboard from "./components/Dashboard/Dashboard";
 import Employee from "./components/Employee/Employee";
 import Inbox from "./components/Inbox/Inbox";
-import Contact from "./components/contact";
+import ContactList from "./components/ContactList";
 import Help from "./components/help/Help";
 import TableData from "./components/Employee/TableData";
 import AddEmployee from "./components/Employee/AddEmployee";
@@ -25,7 +25,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/contact',
-    element: <Contact />
+    element: <ContactList />
   },
   {
     path: '/help',
