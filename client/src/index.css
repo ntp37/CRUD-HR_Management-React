@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+#navList a.active {
+    @apply bg-slate-800;
+}
+
+@tailwind utilities;
