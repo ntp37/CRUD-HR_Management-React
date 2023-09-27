@@ -4,7 +4,7 @@ import { useParams, useNavigate, useLocation } from "react-router-dom";
 import { Grid, TextField, MenuItem, Button } from "@mui/material";
 import withReactContent from "sweetalert2-react-content";
 import Swal from "sweetalert2";
-import Positions from "./position";
+import Positions from "./Positions";
 import { getPersonal } from "../../data/useData";
 
 export default function Form() {
