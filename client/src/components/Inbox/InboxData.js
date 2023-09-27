@@ -1,3 +1,5 @@
+import money from "../../images/money.jpg"
+
 const InboxData = [
 //#region Message data
     {
@@ -50,7 +52,7 @@ const InboxData = [
         by: "Finance Department",
         subject: "Announces First Quarter 2023 Financial Results",
         detail: "Lorem ipsum dolor sit amet consectetur ...",
-        image: "../../../src/images/money.jpg",
+        image: money,
         day: "7 May"
     },
     {
