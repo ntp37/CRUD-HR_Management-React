@@ -1,4 +1,7 @@
 import money from "../../images/money.jpg"
+import ePhone from "../../images/ePhone.jpg"
+import work from "../../images/work.jpg"
+import ceo from "../../images/ceo.jpg"
 
 const InboxData = [
 //#region Message data
@@ -60,7 +63,7 @@ const InboxData = [
         by: "IT Department",
         subject: "Introducing new features of the ePhone 18",
         detail: "Lorem ipsum dolor sit amet consectetur ...",
-        image: "../../../src/images/ePhone.jpg",
+        image: ePhone,
         day: "17 Apr"
     },
     {
@@ -68,7 +71,7 @@ const InboxData = [
         by: "Human resources Department",
         subject: "Announces of changes in work schedule Work from home",
         detail: "Lorem ipsum dolor sit amet consectetur ...",
-        image: "../../../src/images/work.jpg",
+        image: work,
         day: "22 Feb"
     },
     {
@@ -76,7 +79,7 @@ const InboxData = [
         by: "CEO",
         subject: "Greeting from CEO",
         detail: "Lorem ipsum dolor sit amet consectetur ...",
-        image: "../../../src/images/ceo.jpg",
+        image: ceo,
         day: "5 Jan"
     },
 //#endregion
