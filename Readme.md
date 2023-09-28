@@ -13,7 +13,7 @@ The Full Stack project is a basic employee management with CRUD features
 ### Tools
 * React
 * NodeJS
-* Taliwind CSS
+* Tailwind CSS
 * Material UI
 * React Tabs
 * ApexCharts
