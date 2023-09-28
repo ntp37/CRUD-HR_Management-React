@@ -24,11 +24,12 @@ The Full Stack project is a basic employee management with CRUD features
 
 ### How to use files in repository
 1. run command `git clone`
-2. Create `.env` file in `client` and `server` folders
+2. run command `npm install` in `client` and `server` folders
+3. Create `.env` file in both folders
 
 ![.env position](./overview-image/env.png)
 
-3. `.env` file in both folders insert following code
+4. `.env` file in both folders insert following code
 
 ```
 // .env in "client" folder
@@ -43,4 +44,4 @@ DB_DATABASE = 'myemployee'
 DB_PORT = 3306
 ```
 
-4. run command `npm run dev` in both folders
+5. run command `npm run dev` in both folders
