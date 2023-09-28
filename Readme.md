@@ -31,16 +31,16 @@ The Full Stack project is a basic employee management with CRUD features
 3. `.env` file in both folders insert following code
 
 ```
+// .env in "client" folder
+VITE_API = 'http://localhost:3000/'
+
+
 // .env in "server" folder
 DB_HOST = 'localhost'
 DB_USER = 'root'
 DB_PASSWORD = 'root7890'
 DB_DATABASE = 'myemployee'
 DB_PORT = 3306
-
-
-// .env in "client" folder
-VITE_API = 'http://localhost:3000/'
 ```
 
 4. run command `npm run dev` in both folders
