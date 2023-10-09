@@ -23,7 +23,7 @@ The Full Stack project is a basic employee management with CRUD features
 * MySQL2
 
 ### How to use files in repository
-1. run command `git clone`
+1. run command `git clone <repository_link>`
 2. run command `npm install` in `client` and `server` folders
 3. Create `.env` file in both folders
 
