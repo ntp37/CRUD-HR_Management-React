@@ -1,6 +1,9 @@
 # CRUD Employee Management project
 
 ![project overview](./overview-image/project-overview.png)
+<br/>
+
+[Live Site](https://crud-hr-management-react.vercel.app)
 
 ## Introduction
 The Full Stack project is a basic employee management with CRUD features
@@ -20,6 +23,7 @@ The Full Stack project is a basic employee management with CRUD features
 * SweetAlert2
 * Express.js
 * Axios
+* SWR
 * MySQL2
 
 ### How to use files in repository
