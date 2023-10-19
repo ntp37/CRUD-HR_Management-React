@@ -14,6 +14,7 @@ The Full Stack project is a basic employee management with CRUD features
 * Table employee data
 
 ### Tools
+* Local testing server by MAMP (MySQL Port `3306`)
 * React
 * Node.js
 * Tailwind CSS
@@ -26,7 +27,7 @@ The Full Stack project is a basic employee management with CRUD features
 * SWR
 * MySQL2
 
-### How to use files in repository
+### Getting Started
 1. Run command `git clone <repository_link>`
 2. Run command `cd client` and `cd server`
 3. Install Node.js packages with command `npm install` in `client` and `server` folders
