@@ -27,9 +27,10 @@ The Full Stack project is a basic employee management with CRUD features
 * MySQL2
 
 ### How to use files in repository
-1. run command `git clone <repository_link>`
-2. run command `npm install` in `client` and `server` folders
-3. Create `.env` file in both folders
+1. Run command `git clone <repository_link>`
+2. Run command `cd client` and `cd server`
+3. Install Node.js packages with command `npm install` in `client` and `server` folders
+4. Create `.env` file in both folders
 
 ![.env position](./overview-image/env.png)
 
@@ -48,4 +49,5 @@ DB_DATABASE = 'myemployee'
 DB_PORT = 3306
 ```
 
-5. run command `npm run dev` in both folders
+5. Run command `npm run dev` in both folders
+6. Open project with localhost your browser to see the result.
