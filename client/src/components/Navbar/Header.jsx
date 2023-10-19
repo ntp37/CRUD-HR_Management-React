@@ -33,7 +33,7 @@ export default function Header(props) {
           <button type='button' onClick={() => setMobileOpen(true)}>
             <Menu className="sm:ml-5 text-blue-50" sx={{ fontSize: {xs: 24, sm: 28} }} />
           </button>
-          <h1 className="flex items-center text-sm sm:text-2xl text-blue-50 font-semibold">HR Admin V1.0</h1>
+          <h1 className="flex items-center text-sm sm:text-2xl text-blue-50 font-semibold">HR Admin</h1>
         </div>
         <div className="lg:text-slate-600 text-blue-50 flex gap-2 sm:gap-4">
           <InboxOutlined className="" sx={{ fontSize: {xs: 24, sm: 28} }} />
