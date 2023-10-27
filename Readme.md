@@ -3,7 +3,7 @@
 ![project overview](./overview-image/project-overview.png)
 <br/>
 
-[Live Site](https://crud-hr-management-react.vercel.app)
+[Live Site](https://ntp37-crud-hr-management-react.vercel.app)
 
 ## Introduction
 The Full Stack project is a basic employee management with CRUD features
